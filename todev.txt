@@ -2,3 +2,9 @@
 提交
 会与master分支产生不同
 因为我会在master里提交另一种更新
+
+可以看出dev和master做出不同的提交后merge
+一种情况，master会将dev中的不同的文件弄过来
+master需要再做一次提交使其包括dev的内容
+我现在改了本文件，然后提交，再merge
+看看master怎么处
