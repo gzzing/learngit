@@ -8,3 +8,8 @@
 master需要再做一次提交使其包括dev的内容
 我现在改了本文件，然后提交，再merge
 看看master怎么处
+
+所以merge到底是个什么意思
+我merge了之后，两个分支还是不同的
+master 只是添加了一些dev上的改变
+其内容任然比dev 多
