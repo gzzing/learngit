@@ -14,9 +14,4 @@ master需要再做一次提交使其包括dev的内容
 master 只是添加了一些dev上的改变
 其内容任然比dev 多
 
-<<<<<<< HEAD
-//这一行是在master里添加的
 
-//这一行是在dev里添加的
-
-在此做改变，不使用fast-forward合并
