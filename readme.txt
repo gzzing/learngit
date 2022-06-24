@@ -6,3 +6,5 @@ Git tracks changes of files.
 添加一行
 
 2022
+
+此行会冲突
